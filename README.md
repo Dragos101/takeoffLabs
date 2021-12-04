@@ -1,3 +1,3 @@
 # takeoffLabs
 
-The repo includes my solutions for both problems.
+The repo includes my solution for both problems.
